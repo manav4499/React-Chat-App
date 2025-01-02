@@ -82,3 +82,5 @@ This project demonstrates a basic chat application using socket events. Users ca
 3. Send private messages by specifying the recipient's nickname.
 
 ---
+## Screenshot
+<img width=1440 alt="Category selection" src="Project Photos/Screenshot 2025-01-02 104339.png"><img/>
