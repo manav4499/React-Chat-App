@@ -74,29 +74,6 @@ This project demonstrates a basic chat application using socket events. Users ca
   ```
 - **Description**: Sends and receives messages between specific users.
 
----
-
-## Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/chat-app.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd chat-app
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the server:
-   ```bash
-   node server.js
-   ```
-5. Open the client in a browser (default: `http://localhost:3000`).
-
----
 
 ## Usage
 
@@ -105,16 +82,3 @@ This project demonstrates a basic chat application using socket events. Users ca
 3. Send private messages by specifying the recipient's nickname.
 
 ---
-
-## Technologies Used
-
-- **Node.js**
-- **Socket.IO**
-- **HTML/CSS**
-
----
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
